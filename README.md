@@ -1,4 +1,4 @@
-# play-ground
+# vue-playground
 
 ## Project setup
 ```
